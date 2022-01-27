@@ -22,5 +22,5 @@ docker build -t group-project-discord-bot .
 To run this image:
 
 ``bash
-docker run -p 8000:8000 -it group-project-discord-bot
+docker run -it group-project-discord-bot
 ```
